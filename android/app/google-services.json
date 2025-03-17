@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436845927280",
+    "project_id": "e2ee-chat-app-e92c9",
+    "storage_bucket": "e2ee-chat-app-e92c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436845927280:android:b76f6cc694e3c052498db5",
+        "android_client_info": {
+          "package_name": "com.example.e2ee_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL335VNv55XbseUH4IhbhvI4mFSlrVBqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
